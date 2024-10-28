@@ -72,7 +72,7 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=227tr3m7rj3w6iidedkyzbiwq&count={5}?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=227tr3m7rj3w6iidedkyzbiwq&unique={true|1|on|yes})" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
